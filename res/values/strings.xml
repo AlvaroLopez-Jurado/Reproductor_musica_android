@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Prac2</string>
+    <string name="canciones">Your library</string>
+    <string name="listas">Playlists</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_tab">Tracks</string>
+    <string name="second_tab">Albums</string>
+    <string name="title_activity_listas">Playlists</string>
+    <string name="addtolist">addToList</string>
+    <string name="playsong">playSong</string>
+    <string name="creador">Álvaro López-Jurado</string>
+    <string name="asignatura">Desarrollo para plataformas móviles</string>
+    <string name="imagen">imagen</string>
+    <string name="add">ADD</string>
+    <string name="change_theme_color">Change theme color</string>
+    <string name="lenguage">Lenguage</string>
+    <string name="english">English</string>
+    <string name="nombre">nombre</string>
+    <string name="dark_mode">Change color</string>
+    <string name="imagennotficacion">imagenNotficacion</string>
+
+    <string name="_canciones">Bibioteca</string>
+    <string name="_listas">Listas</string>
+    <string name="_action_settings">Ajustes</string>
+    <string name="_home_tab">Canciones</string>
+    <string name="_second_tab">Albumes</string>
+    <string name="_dark_mode">Cambiar color</string>
+    <string name="_lenguage">Idioma</string>
+    <string name="_english">Español</string>
+    <string name="folder">folder</string>
+    <string name="secret">secret</string>
+    <string name="select_music_to_play">Select music to play</string>
+    <string name="song">song</string>
+
+</resources>

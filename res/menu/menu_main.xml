@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alvaro.prac2.MainActivity">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/canciones"
+        android:icon="@drawable/baseline_library_music_black_48"
+        android:title="@string/canciones"/>
+
+    <item
+        android:id="@+id/listas"
+        android:icon="@drawable/baseline_list_black_48"
+        android:title="@string/listas"/>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/baseline_settings_black_48"
+        android:title="@string/action_settings"/>
+    </group>
+</menu>
